@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MiniWordTest/1.0.0": {
+        "dependencies": {
+          "MiniWord": "0.7.0"
+        },
+        "runtime": {
+          "MiniWordTest.dll": {}
+        }
+      },
+      "DocumentFormat.OpenXml/2.18.0": {
+        "dependencies": {
+          "System.IO.Packaging": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/DocumentFormat.OpenXml.dll": {
+            "assemblyVersion": "2.18.0.0",
+            "fileVersion": "2.18.0.0"
+          }
+        }
+      },
+      "MiniWord/0.7.0": {
+        "dependencies": {
+          "DocumentFormat.OpenXml": "2.18.0"
+        },
+        "runtime": {
+          "lib/net5.0/MiniWord.dll": {
+            "assemblyVersion": "0.7.0.0",
+            "fileVersion": "0.7.0.0"
+          }
+        }
+      },
+      "System.IO.Packaging/4.7.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.IO.Packaging.dll": {
+            "assemblyVersion": "4.0.5.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiniWordTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DocumentFormat.OpenXml/2.18.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5fmehgA7WmJD551QwBhvjSsEmMbCQ/yfW83ZLfbPx1TeQGm0ikGIwAvz/XfO4veCjYWpBQfFH9elVhC2Y+HatQ==",
+      "path": "documentformat.openxml/2.18.0",
+      "hashPath": "documentformat.openxml.2.18.0.nupkg.sha512"
+    },
+    "MiniWord/0.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oUHQMC3+0YBWT0ImMFc/Z+f1jDrfhwZC7tcijK3CytXAFzpvFB5Vehh4g4TSUwQP5+BhA5z6W1vltgX/r8GNZg==",
+      "path": "miniword/0.7.0",
+      "hashPath": "miniword.0.7.0.nupkg.sha512"
+    },
+    "System.IO.Packaging/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9VV4KAbgRQZ79iEoG40KIeZy38O30oWwewScAST879+oki8g/Wa2HXZQgrhDDxQM4GkP1PnRJll05NMiVPbYAw==",
+      "path": "system.io.packaging/4.7.0",
+      "hashPath": "system.io.packaging.4.7.0.nupkg.sha512"
+    }
+  }
+}

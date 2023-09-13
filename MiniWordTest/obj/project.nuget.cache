@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PGXNiXxr9p0OwHQwlngqetYTf3t7Mac97zD5gqq5tBvlKom6yZ43xD/+d6CCfRc0laSCOJRTW+oupEJs7J/2pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\picha\\RiderProjects\\MiniWordTest\\MiniWordTest\\MiniWordTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\picha\\.nuget\\packages\\documentformat.openxml\\2.18.0\\documentformat.openxml.2.18.0.nupkg.sha512",
+    "C:\\Users\\picha\\.nuget\\packages\\miniword\\0.7.0\\miniword.0.7.0.nupkg.sha512",
+    "C:\\Users\\picha\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
